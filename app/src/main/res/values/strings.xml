@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DogBreeds</string>
+    <string name="dog_breeds_title">Dog Breeds</string>
+    <string name="no_internet">No Internet Connection Available!!</string>
+    <string name="try_again">Try Again</string>
+    <string name="details_title">Dog Details</string>
+    <string name="dog_life_span">Life Span</string>
+    <string name="dog_name">Dog Name</string>
+    <string name="dog_breed_group">Breed Group</string>
+    <string name="dog_bred_for">Breed For</string>
+    <string name="dog_origin">Origin</string>
+    <string name="dog_temperament">Temperament</string>
+</resources>
