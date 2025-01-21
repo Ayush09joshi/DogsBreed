@@ -2,7 +2,9 @@ package com.example.dogbreeds.model;
 
 import com.google.gson.annotations.SerializedName;
 
-public class dogBreedModel {
+import java.io.Serializable;
+
+public class dogBreedModel implements Serializable {
     private String life_span;
     private String bred_for;
     private String name;

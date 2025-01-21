@@ -82,8 +82,8 @@ public class dogsListFragment extends Fragment implements dogList {
 
     @Override
     public void showError(String message) {
-        noInternetLayout.setVisibility(View.VISIBLE);
         recyclerView.setVisibility(View.GONE);
+        noInternetLayout.setVisibility(View.VISIBLE);
     }
 
     private void onDogBreedClick(dogBreedModel dogBreed) {
